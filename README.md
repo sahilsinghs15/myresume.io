@@ -1,3 +1,5 @@
+
+link to access - https://sahilsinghs15.github.io/myresume.io/dist/res.html
 Resume Website
 This project is a simple website template designed to present a resume in a digital format. It includes sections for Contact Information, About Me, Academic Background, Skills, Projects, and Expertise.
 
